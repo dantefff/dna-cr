@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>view/icons/redo.svg</file>
+    <file>view/icons/undo.svg</file>
+  </qresource>
+</RCC>
